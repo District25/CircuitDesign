@@ -1,0 +1,45 @@
+Added Component: Designator=C29(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R37(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SO8 P1.27 C4.0X5.0 H1.75)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=VCC Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=VEE Pin=C41-2
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=VEE Pin=U9-4
+Added Pin To Net: NetName=VCC Pin=U9-8
+Added Pin To Net: NetName=CH5 Pin=U9-1
+Added Pin To Net: NetName=CH5 Pin=U9-2
+Added Net: Name=CH5
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=R37-1
+Added Pin To Net: NetName=NetC29_1 Pin=U9-3
+Added Net: Name=NetC29_1
+Added Member To Class: ClassName=SLOW Member=Component C29 3,3u
+Added Member To Class: ClassName=SLOW Member=Component C38 1u
+Added Member To Class: ClassName=SLOW Member=Component C41 1u
+Added Member To Class: ClassName=SLOW Member=Component R37 33k
+Added Member To Class: ClassName=SLOW Member=Component U9 *
+Added Room: Name=FAST

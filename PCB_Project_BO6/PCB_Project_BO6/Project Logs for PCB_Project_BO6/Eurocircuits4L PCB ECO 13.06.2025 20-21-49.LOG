@@ -1,0 +1,51 @@
+Added Component: Designator=C37(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SO8 P1.27 C4.0X5.0 H1.75)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=VEE Pin=C40-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=Vbat Pin=U8-3
+Added Pin To Net: NetName=VEE Pin=U8-4
+Added Pin To Net: NetName=VCC Pin=U8-8
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U8-1
+Added Pin To Net: NetName=NetR38_1 Pin=U8-2
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=R39-2
+Added Pin To Net: NetName=NetR38_2 Pin=U8-5
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=Umeas Pin=U8-6
+Added Pin To Net: NetName=Umeas Pin=U8-7
+Added Net: Name=Umeas
+Added Member To Class: ClassName=SLOW Member=Component C37 1u
+Added Member To Class: ClassName=SLOW Member=Component C40 1u
+Added Member To Class: ClassName=SLOW Member=Component R38 33k
+Added Member To Class: ClassName=SLOW Member=Component R39 82k
+Added Member To Class: ClassName=SLOW Member=Component U8 *
+Added Room: Name=FAST

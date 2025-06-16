@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=GND Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R55-1
+Removed Pin From Net: NetName=GND Pin=R65-1
+Removed Pin From Net: NetName=GND Pin=R69-1
+Removed Pin From Net: NetName=GND Pin=R73-1
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Room: Name=FAST

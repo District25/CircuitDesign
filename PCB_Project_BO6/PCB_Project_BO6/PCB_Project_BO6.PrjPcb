@@ -108,7 +108,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -116,7 +116,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTPKAJTV
 
 [Document5]
 DocumentPath=OutJob.OutJob
@@ -136,7 +136,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Amplifier.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Amplifier.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,7 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\AudioDevice.schlib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\AudioDevice.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Battery.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Battery.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,7 +187,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Button.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -204,7 +204,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Capacitor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Capacitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -221,7 +221,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Comparator.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Comparator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -238,7 +238,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Connector.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Converter.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Converter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -272,7 +272,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\DevBoard.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\DevBoard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -289,7 +289,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Diode.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,7 +306,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Display.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Display.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -323,7 +323,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Footprint.PcbLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -337,10 +337,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AFWFUKRD
 
 [Document18]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Fuse.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Fuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -357,7 +357,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Header.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -374,7 +374,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Inductor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -391,7 +391,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\IntegratedCircuit.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\IntegratedCircuit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -408,7 +408,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Jumper.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Jumper.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -425,7 +425,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Logo.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Logo.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -442,7 +442,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Mechanic.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Mechanic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -459,7 +459,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Memory.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -476,7 +476,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Motor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Motor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -493,7 +493,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Optocoupler.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Optocoupler.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -510,7 +510,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Oscillator.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -527,7 +527,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\PinHeader.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\PinHeader.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -544,7 +544,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\PowerModule.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\PowerModule.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -561,7 +561,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Processor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Processor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -575,10 +575,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXHLBAAM
 
 [Document32]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Regulator.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -595,7 +595,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document33]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Relay.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -612,7 +612,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Resistor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -629,7 +629,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Sensor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -646,7 +646,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Testpoint.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Testpoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -663,7 +663,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Transformer.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Transformer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -680,7 +680,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Transistor.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\Transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -697,7 +697,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\VoltageConverter.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\VoltageConverter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -714,7 +714,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=C:\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\WirelessDevice.SchLib
+DocumentPath=..\..\..\..\..\..\..\Users\Public\Documents\Altium\AD24\Library\HEVs\lib\WirelessDevice.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -737,7 +737,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -745,7 +745,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VUCFQBYU
 
 [Document42]
 DocumentPath=SLOW.SchDoc
@@ -754,7 +754,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -762,7 +762,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IRYEDIXE
 
 [Document43]
 DocumentPath=STM.SchLib
@@ -797,6 +797,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSAUQTVV
+
+[Document45]
+DocumentPath=Batterie.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TGYGZNGQ
 
 [Parameter1]
 Name=PcbDate
@@ -976,21 +993,11 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1002,16 +1009,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs

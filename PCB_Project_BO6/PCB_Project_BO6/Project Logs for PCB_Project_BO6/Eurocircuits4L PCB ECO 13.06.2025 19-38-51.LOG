@@ -1,0 +1,27 @@
+Added Component: Designator=C2(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO8 P1.27 C4.0X5.0 H1.75)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VEE Pin=C4-2
+Added Pin To Net: NetName=Imeas Pin=U2-3
+Added Pin To Net: NetName=VEE Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=CH1 Pin=U2-1
+Added Pin To Net: NetName=CH1 Pin=U2-2
+Added Net: Name=CH1
+Added Member To Class: ClassName=FAST Member=Component C2 1u
+Added Member To Class: ClassName=FAST Member=Component C4 1u
+Added Member To Class: ClassName=FAST Member=Component U2 *
+Added Room: Name=FAST

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Member From Class: ClassName=PROC Member=C20
+Added Room: Name=FAST

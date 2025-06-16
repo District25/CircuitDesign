@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=3v3 Pin=U?-1
+Removed Pin From Net: NetName=NetC50_2 Pin=U?-3
+Removed Pin From Net: NetName=NetC11_2 Pin=U?-4
+Removed Pin From Net: NetName=NetC12_2 Pin=U?-5
+Removed Pin From Net: NetName=NetC19_1 Pin=U?-6
+Removed Pin From Net: NetName=RESET Pin=U?-7
+Removed Pin From Net: NetName=CH4 Pin=U?-8
+Added Component: Designator=U?(TSQFP50P1200X1200X160-64N)
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=3v3 Pin=U?-1
+Added Pin To Net: NetName=NetC50_2 Pin=U?-3
+Added Pin To Net: NetName=NetC11_2 Pin=U?-4
+Added Pin To Net: NetName=NetC12_2 Pin=U?-5
+Added Pin To Net: NetName=NetC19_1 Pin=U?-6
+Added Pin To Net: NetName=RESET Pin=U?-7
+Added Pin To Net: NetName=CH4 Pin=U?-8
+Added Pin To Net: NetName=CH5 Pin=U?-9
+Added Pin To Net: NetName=CH6 Pin=U?-10
+Added Pin To Net: NetName=CH7 Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=3v3 Pin=U?-13
+Added Pin To Net: NetName=CH1 Pin=U?-14
+Added Pin To Net: NetName=CH2 Pin=U?-15
+Added Pin To Net: NetName=CH3 Pin=U?-16
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=3v3 Pin=U?-19
+Added Pin To Net: NetName=GATEn Pin=U?-24
+Added Pin To Net: NetName=GATEp Pin=U?-25
+Added Pin To Net: NetName=NetC22_1 Pin=U?-30
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=3v3 Pin=U?-32
+Added Pin To Net: NetName=SDMMC1_D0 Pin=U?-39
+Added Pin To Net: NetName=SDMMC1_D1 Pin=U?-40
+Added Pin To Net: NetName=USB_VBUS Pin=U?-42
+Added Pin To Net: NetName=USART1_RX Pin=U?-43
+Added Pin To Net: NetName=USB_DM Pin=U?-44
+Added Pin To Net: NetName=USB_DP Pin=U?-45
+Added Pin To Net: NetName=DEBUG_SWDIO_JTMS Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=3v3 Pin=U?-48
+Added Pin To Net: NetName=DEBUG_SWCLK_JCLK Pin=U?-49
+Added Pin To Net: NetName=SDMMC1_D2 Pin=U?-51
+Added Pin To Net: NetName=SDMMC1_D3 Pin=U?-52
+Added Pin To Net: NetName=SDMMC1_CLK Pin=U?-53
+Added Pin To Net: NetName=SDMMC1_CMD Pin=U?-54
+Added Pin To Net: NetName=USART1_TX Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-63
+Added Pin To Net: NetName=3v3 Pin=U?-64
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component R? 82k
+Added Member To Class: ClassName=Batterie Member=Component U? *
+Added Member To Class: ClassName=Batterie Member=Component U? *
+Added Member To Class: ClassName=Batterie Member=Component U? *
+Added Room: Name=FAST

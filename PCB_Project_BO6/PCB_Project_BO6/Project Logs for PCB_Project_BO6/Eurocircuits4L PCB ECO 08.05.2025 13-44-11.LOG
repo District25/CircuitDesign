@@ -1,0 +1,70 @@
+Added Component: Designator=C51(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(WE 691312510002)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(Trimmer PIHER PT15)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(LFCSP8 P0.5 C3.0x2.8 H1.0)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ADM7170ACPZ-3.3-R7/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADM7170ACPZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LFCSP -8 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADM7170ACPZ-3.3-R7/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=In_LDO Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=REG_LDO Pin=R12-1
+Added Pin To Net: NetName=REG_LDO Pin=R12-2
+Added Pin To Net: NetName=In_LDO Pin=U5-5
+Added Pin To Net: NetName=REG_LDO Pin=U5-6
+Added Pin To Net: NetName=In_LDO Pin=U5-7
+Added Pin To Net: NetName=In_LDO Pin=U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_1 Pin=U5-4
+Added Net: Name=NetC52_1
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=J3-1
+Added Pin To Net: NetName=NetC53_1 Pin=R11-2
+Added Pin To Net: NetName=NetC53_1 Pin=U5-1
+Added Pin To Net: NetName=NetC53_1 Pin=U5-2
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=Sense Pin=R11-1
+Added Pin To Net: NetName=Sense Pin=R12-3
+Added Pin To Net: NetName=Sense Pin=U5-3
+Added Net: Name=Sense
+Added Member To Class: ClassName=FAST Member=Component C51 4.7u
+Added Member To Class: ClassName=FAST Member=Component C52 1n
+Added Member To Class: ClassName=FAST Member=Component C53 4.7u
+Added Member To Class: ClassName=FAST Member=Component J3 *
+Added Member To Class: ClassName=FAST Member=Component R11 10k
+Added Member To Class: ClassName=FAST Member=Component R12 *
+Added Member To Class: ClassName=FAST Member=Component U5 ADM7170ACPZ-3.3-R7
+Added Room: Name=FAST

@@ -1,0 +1,22 @@
+Added Component: Designator=C30(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=Umeas Pin=R44-2
+Added Pin To Net: NetName=CH7 Pin=U14-6
+Added Pin To Net: NetName=CH7 Pin=U14-7
+Added Net: Name=CH7
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=R44-1
+Added Pin To Net: NetName=NetC30_1 Pin=U14-5
+Added Net: Name=NetC30_1
+Added Member To Class: ClassName=SLOW Member=Component C30 3,3u
+Added Member To Class: ClassName=SLOW Member=Component R44 33k

@@ -1,0 +1,15 @@
+Added Component: Designator=J?(SD MICRO MOLEX 47352-1001)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47352-1001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDMMC1_D2 Pin=J?-1
+Added Pin To Net: NetName=SDMMC1_D3 Pin=J?-2
+Added Pin To Net: NetName=SDMMC1_CMD Pin=J?-3
+Added Pin To Net: NetName=VDD Pin=J?-4
+Added Pin To Net: NetName=SDMMC1_CLK Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=SDMMC1_D0 Pin=J?-7
+Added Pin To Net: NetName=SDMMC1_D1 Pin=J?-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Member To Class: ClassName=PROC Member=Component J? 12402012E212A
+Added Member To Class: ClassName=FAST Member=Component U5 *
+Added Room: Name=FAST

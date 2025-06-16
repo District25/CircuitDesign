@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=In_LDO Pin=U5-5
+Removed Pin From Net: NetName=REG_LDO Pin=U5-6
+Removed Pin From Net: NetName=In_LDO Pin=U5-7
+Removed Pin From Net: NetName=In_LDO Pin=U5-8
+Removed Member From Class: ClassName=FAST Member=J3
+Added Pin To Net: NetName=NetR16_1 Pin=U5-1
+Added Pin To Net: NetName=NetR16_2 Pin=U5-2
+Added Pin To Net: NetName=NetR15_1 Pin=U5-3
+Added Pin To Net: NetName=VEE Pin=U5-4
+Added Pin To Net: NetName=NetR16_1 Pin=U5-5
+Added Pin To Net: NetName=NetR13_2 Pin=U5-6
+Added Pin To Net: NetName=CH3 Pin=U5-7
+Added Pin To Net: NetName=VCC Pin=U5-8
+Added Member To Class: ClassName=FAST Member=Component C7 1u
+Added Member To Class: ClassName=FAST Member=Component C8 1u
+Added Member To Class: ClassName=FAST Member=Component C9 1u
+Added Room: Name=FAST

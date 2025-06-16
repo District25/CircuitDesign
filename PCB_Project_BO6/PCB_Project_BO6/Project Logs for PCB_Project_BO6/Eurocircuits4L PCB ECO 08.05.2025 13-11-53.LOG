@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J4-A1_B12
+Removed Pin From Net: NetName=GND Pin=J4-B1_A12
+Removed Pin From Net: NetName=GND Pin=J4-SH1
+Removed Pin From Net: NetName=GND Pin=J4-SH2
+Removed Pin From Net: NetName=GND Pin=J4-SH3
+Removed Pin From Net: NetName=GND Pin=J4-SH4
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J5-7
+Removed Pin From Net: NetName=GND Pin=J5-11
+Removed Pin From Net: NetName=GND Pin=R25-1
+Added Room: Name=FAST

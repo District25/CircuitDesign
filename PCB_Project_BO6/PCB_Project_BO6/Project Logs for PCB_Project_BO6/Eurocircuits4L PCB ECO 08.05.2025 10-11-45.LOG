@@ -1,0 +1,64 @@
+Added Component: Designator=C7(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(WE 691312510002)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(Trimmer PIHER PT15)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SON50P300X300X80-9N
+Added Pin To Net: NetName=In_LDO Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=REG_LDO Pin=R12-1
+Added Pin To Net: NetName=REG_LDO Pin=R12-2
+Added Pin To Net: NetName=In_LDO Pin=U5-5
+Added Pin To Net: NetName=REG_LDO Pin=U5-6
+Added Pin To Net: NetName=In_LDO Pin=U5-7
+Added Pin To Net: NetName=In_LDO Pin=U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=J3-1
+Added Pin To Net: NetName=NetC8_1 Pin=R11-2
+Added Pin To Net: NetName=NetC8_1 Pin=U5-1
+Added Pin To Net: NetName=NetC8_1 Pin=U5-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U5-4
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=Sense Pin=R11-1
+Added Pin To Net: NetName=Sense Pin=R12-3
+Added Pin To Net: NetName=Sense Pin=U5-3
+Added Net: Name=Sense
+Added Member To Class: ClassName=FAST Member=Component C7 4.7u
+Added Member To Class: ClassName=FAST Member=Component C8 4.7u
+Added Member To Class: ClassName=FAST Member=Component C9 1n
+Added Member To Class: ClassName=FAST Member=Component J3 *
+Added Member To Class: ClassName=FAST Member=Component R11 10k
+Added Member To Class: ClassName=FAST Member=Component R12 *
+Added Member To Class: ClassName=FAST Member=Component U5 ADM7170ACPZ-3.3-R7
+Added Room: Name=FAST

@@ -1,0 +1,38 @@
+Added Component: Designator=J4(USB-C-SMD Amphenol 12402012E212A)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12402012E212A"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-A1_B12
+Added Pin To Net: NetName=USB_DP Pin=J4-A6
+Added Pin To Net: NetName=USB_DM Pin=J4-A7
+Added Pin To Net: NetName=GND Pin=J4-B1_A12
+Added Pin To Net: NetName=USB_DP Pin=J4-B6
+Added Pin To Net: NetName=USB_DM Pin=J4-B7
+Added Pin To Net: NetName=GND Pin=J4-SH1
+Added Pin To Net: NetName=GND Pin=J4-SH2
+Added Pin To Net: NetName=GND Pin=J4-SH3
+Added Pin To Net: NetName=GND Pin=J4-SH4
+Added Pin To Net: NetName=USB_VBUS Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=USB_VBUS Pin=R25-2
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=NetJ4_A4_B9 Pin=J4-A4_B9
+Added Pin To Net: NetName=NetJ4_A4_B9 Pin=J4-B4_A9
+Added Pin To Net: NetName=NetJ4_A4_B9 Pin=R24-1
+Added Net: Name=NetJ4_A4_B9
+Added Member To Class: ClassName=PROC Member=Component J4 12402012E212A
+Added Member To Class: ClassName=PROC Member=Component R24 22k
+Added Member To Class: ClassName=PROC Member=Component R25 33k
+Added Member To Class: ClassName=PROC Member=Component U7 STM32U595RJT6
+Added Room: Name=FAST

@@ -1,0 +1,227 @@
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Added Component: Designator=C11(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(FTSH-107-01-S-D-K)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STlink-14pin-1.27mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MOLEX_47352-1001
+Added Component: Designator=J?(USB-C-SMD Amphenol 12402012E212A)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12402012E212A"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(QFP65P1720X2320X245-100N)
+Added Component: Designator=X1(Crystal C3.2x1.5 Abracon ABS07)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X2(Crystal C2.0x1.6 Kyocera CX2016DB)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J5-11
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-S1
+Add Pin To Net: Unknown Pin: Pin J6-S2
+Add Pin To Net: Unknown Pin: Pin J6-S3
+Add Pin To Net: Unknown Pin: Pin J6-S4
+Added Pin To Net: NetName=GND Pin=J?-A1_B12
+Added Pin To Net: NetName=GND Pin=J?-B1_A12
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Pin To Net: NetName=GND Pin=R25-1
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=CH4 Pin=U10-8
+Added Pin To Net: NetName=CH5 Pin=U10-9
+Added Pin To Net: NetName=CH6 Pin=U10-10
+Added Pin To Net: NetName=CH7 Pin=U10-11
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=CH1 Pin=U10-14
+Added Pin To Net: NetName=CH2 Pin=U10-15
+Added Pin To Net: NetName=CH3 Pin=U10-16
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=GATEn Pin=U10-24
+Added Pin To Net: NetName=GATEp Pin=U10-25
+Added Pin To Net: NetName=GND Pin=U10-31
+Added Pin To Net: NetName=GND Pin=U10-47
+Added Pin To Net: NetName=GND Pin=U10-63
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=3v3 Pin=C13-1
+Added Pin To Net: NetName=3v3 Pin=C14-1
+Added Pin To Net: NetName=3v3 Pin=C15-1
+Added Pin To Net: NetName=3v3 Pin=C16-1
+Added Pin To Net: NetName=3v3 Pin=C17-1
+Added Pin To Net: NetName=3v3 Pin=C18-1
+Added Pin To Net: NetName=3v3 Pin=R26-2
+Added Pin To Net: NetName=3v3 Pin=U10-1
+Added Pin To Net: NetName=3v3 Pin=U10-13
+Added Pin To Net: NetName=3v3 Pin=U10-19
+Added Pin To Net: NetName=3v3 Pin=U10-32
+Added Pin To Net: NetName=3v3 Pin=U10-48
+Added Pin To Net: NetName=3v3 Pin=U10-64
+Added Net: Name=3v3
+Added Pin To Net: NetName=DEBUG_SWCLK_JCLK Pin=J5-6
+Added Pin To Net: NetName=DEBUG_SWCLK_JCLK Pin=U10-49
+Added Net: Name=DEBUG_SWCLK_JCLK
+Added Pin To Net: NetName=DEBUG_SWDIO_JTMS Pin=J5-4
+Added Pin To Net: NetName=DEBUG_SWDIO_JTMS Pin=U10-46
+Added Net: Name=DEBUG_SWDIO_JTMS
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U10-4
+Added Pin To Net: NetName=NetC11_2 Pin=X1-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U10-5
+Added Pin To Net: NetName=NetC12_2 Pin=X2-3
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=U10-6
+Added Pin To Net: NetName=NetC19_1 Pin=X2-1
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=U10-30
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=U10-3
+Added Pin To Net: NetName=NetC50_2 Pin=X1-1
+Added Net: Name=NetC50_2
+Added Pin To Net: NetName=NetJ?_A4_B9 Pin=J?-A4_B9
+Added Pin To Net: NetName=NetJ?_A4_B9 Pin=J?-B4_A9
+Added Pin To Net: NetName=NetJ?_A4_B9 Pin=R24-1
+Added Net: Name=NetJ?_A4_B9
+Added Pin To Net: NetName=RESET Pin=C21-1
+Added Pin To Net: NetName=RESET Pin=J5-12
+Added Pin To Net: NetName=RESET Pin=R26-1
+Added Pin To Net: NetName=RESET Pin=U10-7
+Added Net: Name=RESET
+Added Pin To Net: NetName=SDMMC1_CLK Pin=U10-53
+Added Net: Name=SDMMC1_CLK
+Added Pin To Net: NetName=SDMMC1_CMD Pin=U10-54
+Added Net: Name=SDMMC1_CMD
+Added Pin To Net: NetName=SDMMC1_D0 Pin=U10-39
+Added Net: Name=SDMMC1_D0
+Added Pin To Net: NetName=SDMMC1_D1 Pin=U10-40
+Added Net: Name=SDMMC1_D1
+Added Pin To Net: NetName=SDMMC1_D2 Pin=U10-51
+Added Net: Name=SDMMC1_D2
+Added Pin To Net: NetName=SDMMC1_D3 Pin=U10-52
+Added Net: Name=SDMMC1_D3
+Added Pin To Net: NetName=USART1_RX Pin=J5-13
+Added Pin To Net: NetName=USART1_RX Pin=U10-43
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=J5-14
+Added Pin To Net: NetName=USART1_TX Pin=U10-58
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=USB_DM Pin=J?-A7
+Added Pin To Net: NetName=USB_DM Pin=J?-B7
+Added Pin To Net: NetName=USB_DM Pin=U10-44
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=J?-A6
+Added Pin To Net: NetName=USB_DP Pin=J?-B6
+Added Pin To Net: NetName=USB_DP Pin=U10-45
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=USB_VBUS Pin=R24-2
+Added Pin To Net: NetName=USB_VBUS Pin=R25-2
+Added Pin To Net: NetName=USB_VBUS Pin=U10-42
+Added Net: Name=USB_VBUS
+Added Pin To Net: NetName=VDD Pin=C20-1
+Added Pin To Net: NetName=VDD Pin=J5-3
+Added Net: Name=VDD
+Added Class: Name=PROC
+Added Member To Class: ClassName=FAST Member=Component U6 ADM7170ACPZ-3.3-R7
+Added Room: Name=FAST

@@ -1,0 +1,19 @@
+Added Component: Designator=R38(RESISTOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(SO8 P1.27 C4.0X5.0 H1.75)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=R38-2
+Added Pin To Net: NetName=NetR37_2 Pin=U14-3
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=Umeas Pin=U14-1
+Added Pin To Net: NetName=Umeas Pin=U14-2
+Added Net: Name=Umeas
+Added Member To Class: ClassName=SLOW Member=Component R38 82k
+Added Member To Class: ClassName=SLOW Member=Component U14 *

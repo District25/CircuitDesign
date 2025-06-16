@@ -1,0 +1,36 @@
+Added Component: Designator=C24(CAPACITOR 1005 REFLOW)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(FTSH-107-01-S-D-K)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STlink-14pin-1.27mm"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SD MICRO MOLEX 47352-1001)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47352-1001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=DEBUG_SWDIO_JTMS Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=DEBUG_SWCLK_JCLK Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J5-11
+Added Pin To Net: NetName=RESET Pin=J5-12
+Added Pin To Net: NetName=USART1_RX Pin=J5-13
+Added Pin To Net: NetName=USART1_TX Pin=J5-14
+Added Pin To Net: NetName=SDMMC1_D2 Pin=J6-1
+Added Pin To Net: NetName=SDMMC1_D3 Pin=J6-2
+Added Pin To Net: NetName=SDMMC1_CMD Pin=J6-3
+Added Pin To Net: NetName=SDMMC1_CLK Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=SDMMC1_D0 Pin=J6-7
+Added Pin To Net: NetName=SDMMC1_D1 Pin=J6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=VDD Pin=C24-1
+Added Pin To Net: NetName=VDD Pin=J5-3
+Added Pin To Net: NetName=VDD Pin=J6-4
+Added Net: Name=VDD
+Added Member To Class: ClassName=PROC Member=Component C24 100n
+Added Member To Class: ClassName=PROC Member=Component J5 STlink-14pin-1.27mm
+Added Member To Class: ClassName=PROC Member=Component J6 47352-1001
+Added Room: Name=FAST

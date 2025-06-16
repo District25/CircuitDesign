@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Add Pin To Net: Unknown Pin: Pin U6-9
+Change Net Name : Old Net Name=NetJ?_A4_B9 New Net Name=NetJ4_A4_B9
+Added Member To Class: ClassName=PROC Member=Component J6 47352-1001
+Added Room: Name=FAST

@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator=C10 NewDesignator=C50
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-10
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-24
+Add Pin To Net: Unknown Pin: Pin U10-25
+Add Pin To Net: Unknown Pin: Pin U10-30
+Add Pin To Net: Unknown Pin: Pin U10-31
+Add Pin To Net: Unknown Pin: Pin U10-32
+Add Pin To Net: Unknown Pin: Pin U10-39
+Add Pin To Net: Unknown Pin: Pin U10-40
+Add Pin To Net: Unknown Pin: Pin U10-42
+Add Pin To Net: Unknown Pin: Pin U10-43
+Add Pin To Net: Unknown Pin: Pin U10-44
+Add Pin To Net: Unknown Pin: Pin U10-45
+Add Pin To Net: Unknown Pin: Pin U10-46
+Add Pin To Net: Unknown Pin: Pin U10-47
+Add Pin To Net: Unknown Pin: Pin U10-48
+Add Pin To Net: Unknown Pin: Pin U10-49
+Add Pin To Net: Unknown Pin: Pin U10-51
+Add Pin To Net: Unknown Pin: Pin U10-52
+Add Pin To Net: Unknown Pin: Pin U10-53
+Add Pin To Net: Unknown Pin: Pin U10-54
+Add Pin To Net: Unknown Pin: Pin U10-58
+Add Pin To Net: Unknown Pin: Pin U10-63
+Add Pin To Net: Unknown Pin: Pin U10-64
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=X1-1
+Added Net: Name=NetC50_2
+Add Class Member: Failed to add class member : Component U10 STM32U595RJT6
+Added Room: Name=FAST

@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=FAST.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=FAST.SchDoc|FileName=PROC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=FAST.SchDoc|FileName=SLOW.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Batterie.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Batterie.SchDoc|FileName=FAST.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Batterie.SchDoc|FileName=PROC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Batterie.SchDoc|FileName=SLOW.SchDoc|SheetNumber=3

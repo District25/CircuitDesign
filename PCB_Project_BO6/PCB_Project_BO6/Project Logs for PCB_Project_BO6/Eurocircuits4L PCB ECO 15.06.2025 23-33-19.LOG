@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Member From Class: ClassName=Batterie Member=C44
+Change Component Designator: OldDesignator=C43 NewDesignator=C47
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Room: Name=FAST

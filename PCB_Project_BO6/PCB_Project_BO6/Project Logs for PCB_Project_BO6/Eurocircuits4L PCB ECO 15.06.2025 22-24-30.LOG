@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CH7 Pin=U11-1
+Removed Pin From Net: NetName=CH7 Pin=U11-2
+Removed Pin From Net: NetName=NetC34_1 Pin=U11-3
+Removed Member From Class: ClassName=SLOW Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Add Pin To Net: Unknown Pin: Pin U6-9
+Added Pin To Net: NetName=CH7 Pin=U11-1
+Added Pin To Net: NetName=CH7 Pin=U11-2
+Added Pin To Net: NetName=NetC34_1 Pin=U11-3
+Added Room: Name=FAST
